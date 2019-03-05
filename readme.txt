@@ -10,4 +10,4 @@ Git is a distributed version control system.
 under the GPL.
 hello
 world
-creating a new branch is quick & simple
+creating a new branch is quick and  simple
