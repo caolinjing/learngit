@@ -11,4 +11,3 @@ under the GPL.
 hello
 world
 creating a new branch is quick and  simple
-add merge
